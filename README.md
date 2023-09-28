@@ -102,7 +102,6 @@ curl -sSL https://dataease.oss-cn-hangzhou.aliyuncs.com/quick_start.sh | bash
 -   基础设施：[Docker](https://www.docker.com/)
 
 ## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=dataease/dataease&type=Date)](https://star-history.com/#dataease/dataease&Date)
 
 ## License
